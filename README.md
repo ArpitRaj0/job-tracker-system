@@ -14,6 +14,8 @@ A full-stack job application tracking system built with **MERN stack**, featurin
 ## 🚀 Live Demo
 
 https://job-tracker-system.onrender.com (RENDER)
+job-tracker-system.vercel.app (VERCEL)
+
 
 
 ---
